@@ -28,4 +28,4 @@ class GardenGnome
  
  def introduce_self
    return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!"
- 
+ end 
