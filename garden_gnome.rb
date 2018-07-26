@@ -1,10 +1,10 @@
 class GardenGnome
-  def name  = (name)
-    @name = name
+  def name= (name)
+    @name= name
   end 
   
-  def age = (age)
-    @age = age
+  def age= (age)
+    @age= age
   end 
   
   def gluten_allergy = (gluten_allergy)
@@ -13,9 +13,9 @@ end
 
 def
  intialize
- (personality = "evil", hat_color = "red")
- @personality = personality
- @hat_color = hat_color
+ (personality= "evil", hat_color = "red")
+ @personality= personality
+ @hat_color= hat_color
  end 
  
  def gnaw 
