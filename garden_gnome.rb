@@ -32,4 +32,8 @@ class GardenGnome
 end 
 
 class GardenGnome
+  def name = "Walter the Worst"
+  end 
+  
+  
   
