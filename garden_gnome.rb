@@ -30,9 +30,13 @@ class GardenGnome
  @hat_color= hat_color
   end 
 
-def personality
+  def personality
    @personality
  end 
+ 
+ def hat_color
+   @hat_color
+ end
  
  def gnaw 
    return "Gnawing on a tree!!!"
