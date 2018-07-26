@@ -23,4 +23,7 @@ def
  end 
  
  def shout
-   
+   return "GNARLY!!!"
+ end 
+ 
+ 
