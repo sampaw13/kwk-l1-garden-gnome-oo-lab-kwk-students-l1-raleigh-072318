@@ -1,1 +1,1 @@
-class Garden Gnome
+class GardenGnome
