@@ -50,5 +50,7 @@ class GardenGnome
   end 
 end 
 
+class GardenGnome
+  
 
   
