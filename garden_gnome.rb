@@ -11,5 +11,9 @@ class GardenGnome
   @gluten_allergy = gluten_allergy
 end 
 
-def @personality = evil
+def
+ intialize
+ (personality = "evil", hat_color = "red")
+ @personality = personality
+ @hat_color = 
 end 
