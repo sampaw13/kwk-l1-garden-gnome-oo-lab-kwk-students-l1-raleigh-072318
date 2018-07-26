@@ -35,11 +35,11 @@ class GardenGnome
   end 
 
   def personality
-   @personality
+   @evil
   end 
  
   def hat_color
-   @hat_color
+   @red 
   end
  
  def gnaw 
