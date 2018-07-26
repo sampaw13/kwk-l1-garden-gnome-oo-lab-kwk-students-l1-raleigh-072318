@@ -30,7 +30,7 @@ class GardenGnome
   end 
   
   def hat_color
-    hat_color= "red"
+    (hat_color= "red")
     hat_color = hat_color
   end 
 
