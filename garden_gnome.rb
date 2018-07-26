@@ -11,3 +11,5 @@ class GardenGnome
   @gluten_allergy = gluten_allergy
 end 
 
+def @personality = evil
+  
