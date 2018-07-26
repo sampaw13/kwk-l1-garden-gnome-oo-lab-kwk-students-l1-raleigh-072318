@@ -1,4 +1,5 @@
 class GardenGnome
+  
   def name= (name)
     @name= name
   end 
@@ -11,8 +12,7 @@ class GardenGnome
   @gluten_allergy= gluten_allergy
   end 
 
-  def
- intialize
+  def intialize
  (personality= "evil", hat_color = "red")
  @personality= personality
  @hat_color= hat_color
