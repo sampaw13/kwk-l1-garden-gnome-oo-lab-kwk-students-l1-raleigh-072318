@@ -32,7 +32,7 @@ class GardenGnome
  
  def intialize
    @evil
-   @hat_color
+   @red
  end 
  
  def gnaw 
