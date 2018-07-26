@@ -15,5 +15,8 @@ def
  intialize
  (personality = "evil", hat_color = "red")
  @personality = personality
- @hat_color.new = 
+ @hat_color = hat_color
+ end 
+ 
+ 
 end 
