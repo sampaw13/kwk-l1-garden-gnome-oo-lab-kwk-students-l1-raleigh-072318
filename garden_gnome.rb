@@ -9,14 +9,14 @@ class GardenGnome
   
   def gluten_allergy= (gluten_allergy)
   @gluten_allergy= gluten_allergy
-end 
+  end 
 
-def
+  def
  intialize
  (personality= "evil", hat_color = "red")
  @personality= personality
  @hat_color= hat_color
- end 
+  end 
  
  def gnaw 
    return "Gnawing on a tree!!!"
@@ -28,4 +28,4 @@ def
  
  def introduce_self
    return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!"
- end 
+ 
