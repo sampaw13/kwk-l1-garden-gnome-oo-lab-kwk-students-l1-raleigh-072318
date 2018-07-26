@@ -23,11 +23,6 @@ class GardenGnome
   def gluten_allergy
     @gluten_allergy
   end 
-
-  def initialize
- (personality= "evil")
- @personality= personality
-  end 
   
   def initialize
   (hat_color= "red")
