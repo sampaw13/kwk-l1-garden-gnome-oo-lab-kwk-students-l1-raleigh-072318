@@ -31,7 +31,7 @@ class GardenGnome
   end 
  
  def intialize
-   @personality
+   @evil
    @hat_color
  end 
  
