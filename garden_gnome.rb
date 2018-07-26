@@ -16,17 +16,20 @@ class GardenGnome
  (personality= "evil", hat_color = "red")
  @personality= personality
  @hat_color= hat_color
-  end 
+#   end 
  
- def gnaw 
-   return "Gnawing on a tree!!!"
- end 
+# def gnaw 
+#   return "Gnawing on a tree!!!"
+# end 
  
- def shout
-   return "GNARLY!!!"
- end 
+# def shout
+#   return "GNARLY!!!"
+# end 
  
- def introduce_self
-   return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!".
-  end 
-end 
+# def introduce_self
+#   return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!".
+#   end 
+# end 
+
+class GardenGnome
+  
