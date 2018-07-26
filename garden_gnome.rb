@@ -18,5 +18,9 @@ def
  @hat_color = hat_color
  end 
  
+ def gnaw 
+   return "Gnawing on a tree!!!"
+ end 
  
-end 
+ def shout
+   
