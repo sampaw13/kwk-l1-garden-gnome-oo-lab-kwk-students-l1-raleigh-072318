@@ -12,4 +12,4 @@ class GardenGnome
 end 
 
 def @personality = evil
-  
+end 
